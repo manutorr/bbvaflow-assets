@@ -1,0 +1,295 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 1920">
+  <defs>
+    <style>
+      .cls-1, .cls-14, .cls-26, .cls-29 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Neffos_-_Locked_Screen);
+      }
+
+      .cls-3, .cls-5 {
+        opacity: 0.9;
+      }
+
+      .cls-17, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        font-size: 40px;
+        font-family: Roboto-Medium, Roboto;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7 {
+        opacity: 0.24;
+      }
+
+      .cls-8 {
+        fill: #fafafa;
+      }
+
+      .cls-9 {
+        opacity: 0.12;
+        fill: url(#pattern);
+      }
+
+      .cls-10 {
+        opacity: 0.04;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-13, .cls-15, .cls-19 {
+        opacity: 0.54;
+      }
+
+      .cls-14, .cls-15 {
+        fill-rule: evenodd;
+      }
+
+      .cls-16 {
+        opacity: 0.95;
+      }
+
+      .cls-18, .cls-19 {
+        font-size: 35px;
+      }
+
+      .cls-18, .cls-19, .cls-21 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-20 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-21 {
+        fill: rgba(0,123,195,0.54);
+        font-size: 30px;
+      }
+
+      .cls-22 {
+        fill: rgba(0,0,0,0.54);
+      }
+
+      .cls-23 {
+        fill: #007bc3;
+      }
+
+      .cls-24 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-25, .cls-28, .cls-30 {
+        opacity: 0.2;
+      }
+
+      .cls-25 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-26, .cls-29 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-26 {
+        stroke-width: 1.803px;
+      }
+
+      .cls-27 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-28 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-29 {
+        stroke-width: 2px;
+      }
+
+      .cls-30 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-31 {
+        filter: url(#Rectangle_42);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_132" data-name="Rectangle 132" class="cls-1" width="1080" height="192"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 354 58">
+      <image width="354" height="58" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWIAAAA6CAYAAACK9lNUAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAApxJREFUeNrs2s1KW2EUhtGc/GkH1UIrtJNCRx30/q9HyERBBROh2miS7hP2J1+TWEmOg1LWgheT1E4cPGyONr1tzSvvAdjP6m/vd0W3nyuvxRige4SX+XpZvd4KbBvdQWwUG+eGYgzwJhF+is1zj7FFfr4ObYlsG+Gj2PvYh9hJ7HgjxgDsp0T4ITaL3cbuYr8y1Kth9QhilBH+Evsa+xw7zcu47yIGOOgiXuYVPI1dxiZVoNcbVo8lxnkJtxH+EfsW+5RXsYsY4PCLuL2Gr2Pn+dl97rEOcZMhPslLuI3w99hZhnjgZwlwkEWG+Crf38Qu8uvP9oP6Im5fv8vHER8zwmcuYoA3uYh7eRWfZmuff/9WnhHXMR5nfMuOhBigU4h7VVO3/iKtfjRRVv6Mrd/782+KAdhf3dJB1dSynZdus/EVgO5ebKtHDgD/wMkMgBADCDEAQgwgxAAIMYAQAyDEAEIMgBADCDEAQgwgxAAIMYAQAyDEAEIMgBADCDEAQgwgxAAIMYAQAyDEAEIMgBADCDEAQgwgxAAIMYAQAyDEAEIMgBADCDEAQgzw/4R4tfEVgO5ebOuw+oeyZWyRX8tczgCHqVta2lo3dx3iVfXNT7F57KFaT4gBOoW4buo8W7ssh/BwI8L3sWnsJnaV/3YcG/hZAhxkkQG+yrZOs7XPMa4fTbSVnsUuY+f5+U2G2EUM0O0ivs62XmZr573q0UT5xvbD29ikivBpbJwhbvw8Afayqvo6zQhPsrXz+iIu3/gYu8v/3J7NF3kND13EAJ0u4qe8imcZ4bts7voXd/WV28a2fRY8yit4vBFhFzHA/hdxHeN5ro1w+QuKrbg2Gd5+9VqEAd4mxuUJxLL6fGdgm1feA3BYjHe+/y3AAAjeoD5S5PZHAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.028" stop-opacity="0.863"/>
+      <stop offset="0.2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0.8" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.973" stop-color="#fff" stop-opacity="0.863"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="Rectangle_42" x="-4.5" y="624.5" width="1089" height="250.165" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_48" data-name="Rectangle 48" class="cls-1" width="1080" height="94.369"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_151" data-name="Rectangle 151" class="cls-1" width="72" height="72"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 20 21">
+      <image width="20" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAfdJREFUeNqslMsvQ0EUxtt7S6l4tULqzaLeobFBiHhGbGwsrP1jtmyIR6wQFhYWYiP1WCBIpB4t8QjF5TvyjUwmrVr0JL+0uTPzzZkz3xmXK8Ph/uO7DbzA0r5/gQ+QAM5/BJWQDwRBA8jTxkUsCo7AQzJht/FfMqoC7SAMBkAhF0p2n+AMrIMIiemitiboATVgEkyDXlAGXsEpuAZZIAQ6QC14Ajec86VEVHY+ZjYBmni0HbAHNrhYxEY4HuYGUoZN8KhnKMLVYAx0gVswD2Y4+YQbXIB9/kqN26gh3+KSpUfLTgb7wQtYBLPgmPVTIVk880L8oA40glZwJeMWdwjyCCXgACwlEVPhUDDCORVgEARc9JiX9uijgNTsPIWYigTFtsAbs81Wgha9VsDabIP7NA3h8Oh35saW5v531jLA20vXYTazskxB5X4xbCVtETQnGmHToyGjk34W6fUQ8WYa159CVHfFkNZJjhJ0aNooB8S0U7wkXdRNv+bTLp2glOsOqfFrbFlUBOo5WUxezMuJUyyXfd4DRsEwE1gGC+BSet3Wbu2JxhWhctZRMsihUAv9NsXs5BJXwZzuWbdRTzliNxhnB1TQZwnNsx98vnbBitkA5nuoPBlkOw1yE9PQazR/zPRhqhdbCQdUBxiliaXppMzFtwADABp/hc7XT9eRAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-1" width="75" height="72"/>
+    </clipPath>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 19 22">
+      <image width="19" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAWCAYAAAAinad/AAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZFJREFUeNqslDlLA1EUhWMyaqKCFi5YiPsS3NEi2AgiFoLYWvsLRWwERVFbI6i4NiK4gaZJXAga/S6cgWHMZCMPPt5keHNy7rnvvXCoisOp4JsaiEC9nr8hCzmnApEG6IRhqINHOIO0U4aQOemCSZiGBYjCngSLinnddMMKLMtZq9ZcymFgZv6SxmEGFiEG1/AMPYUakE/ESpqXkwxsqLQJWA8Sy5eLK5JVyMewpYza9f6fmCs0AKvKxhZ/SOQEduAeUlobuM8icmRCa9AHD7CpslwR10lBMevGICxp/oFb2IZT+Cpl/4Q15xSudSitd03QAc3aT+FiYhGfmAm1QJtmC79Wzj/lOKffQzAHb7Bvs+MRs0wOddZeYARGoRduYBcuRLaQMxu/ysbafg536rKVG4dZnQJz/w79kIBXv7OQx6G7+EmiU+pwQmVZJ48k3FjKFeQVTSkvb+lxOY4GlZlvBJUeU3OsIVdwYH9ayhWUr/QxXUF2hpPaCWXdtH7RpL7PKIqKrm1XNB10Aqoy/gQYAOc4btNcPYJZAAAAAElFTkSuQmCC"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 20 21">
+      <image width="20" height="21" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPZJREFUeNrslDEKwjAYhWtIVbCZnBTcO4sX6ObsAXor7+A1vICTFIRCV5c6iIMUW32RFykZbCKOffAhVPI1v/i/IPhzBq1PCYZAeJx/ggeoQGNEmjFYgBhEHkItO4MMXLRU8mZatgFroMzbHKarQQ52YA+uZsyYsjk46S8chCGYgRUowdEIBcdUlG1B4SCcgASkYMqLvcc1aXizguKuKE5WtR+Kf/9temEv/CHS2s2QG6AczkYsFWELTQXV3M2EG9AVLVva7SRbFZRz0VN7nb78XFo2AnfTUJKHM1ZQyUX3iZYdwK3d2OZtn9bwSENZ6TiZX14CDAAM0zEOimzZ8gAAAABJRU5ErkJggg=="/>
+    </pattern>
+    <clipPath id="clip-Neffos_-_Locked_Screen">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Neffos_-_Locked_Screen" data-name="Neffos - Locked Screen" class="cls-2">
+    <rect class="cls-17" width="1080" height="1920"/>
+    <g id="sysbar_dark">
+      <rect id="rectangle" width="1080" height="1920"/>
+      <g id="sysbar_icons" transform="translate(726)">
+        <rect id="sysbar" class="cls-1" width="354" height="72"/>
+        <g id="Group_284" data-name="Group 284" class="cls-3" transform="translate(208.595 12)">
+          <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-1" width="120" height="48" transform="translate(0 3)"/>
+          <text id="_12:30" data-name="12:30" class="cls-4" transform="translate(13.405 37)"><tspan x="0" y="0">12:30</tspan></text>
+        </g>
+        <g id="sysbar_wifi" data-name="sysbar wifi" transform="translate(45.57 12)">
+          <g id="Group_285" data-name="Group 285" class="cls-3" transform="translate(0 3)">
+            <path id="Path_78" data-name="Path 78" class="cls-5" d="M26.4,43,52.8,10.3C51.9,9.4,41.7,1,26.4,1S.9,9.4,0,10.3L26.4,43Z" transform="translate(0 -1)"/>
+          </g>
+          <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-1" width="48" height="48" transform="translate(2.4)"/>
+        </g>
+        <g id="sysbar_status" data-name="sysbar status" transform="translate(102 12)">
+          <path id="Path_79" data-name="Path 79" class="cls-5" d="M19.8,43h42V1Z" transform="translate(-16.8 2)"/>
+          <rect id="Rectangle_158" data-name="Rectangle 158" class="cls-1" width="48" height="48" transform="translate(0)"/>
+        </g>
+        <g id="sysbar_battery" data-name="sysbar battery" transform="translate(162 12)">
+          <rect id="Rectangle_159" data-name="Rectangle 159" class="cls-1" width="48" height="48" transform="translate(0)"/>
+          <path id="Path_80" data-name="Path 80" class="cls-5" d="M60.8,4V1h-9V4h-9V43h27V4Z" transform="translate(-30.8 2)"/>
+        </g>
+      </g>
+    </g>
+    <g id="searchbar_-_mobile" data-name="searchbar - mobile" transform="translate(0 113)">
+      <g id="background" class="cls-6">
+        <g id="Group_247" data-name="Group 247" transform="translate(10.5 13.5)">
+          <g id="Group_243" data-name="Group 243" transform="translate(4.5 4.5)">
+            <image id="Rectangle_129" data-name="Rectangle 129" class="cls-7" width="1050" height="162" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV4AAAA2CAYAAACP+/GZAAAACXBIWXMAAAsSAAALEgHS3X78AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAaBJREFUeNrs2LFKA0EYhVF32UgKBYm9vb6AtU/uO1hobx8JaCEmJN6Ff3W1Uwerc+AywVil+BimO/rUfTsBaOMwP6fI9tmQLevs/U4ATeyzXfZa576r+C6y8+wiW2XHbr4ATW66b9lT9pits+0U3tPsMrvJrrIT4QVoEt6X7D67zR6y56ECO9SNd4zvdXbmuQGgyTPDpgJ8V63thvqyr+eG04ruSngBmoT3qNq6mLo6zP5henboZwPgb/pZXz/+AMA/lxgA4QUQXgCEF0B4ARBeAOEFEF4/AYDwAggvAMILILwACC+A8AIgvADCCyC8AAgvgPACILwAwguA8AIIL4DwAiC8AMILgPACCC8AwgsgvADCC4DwAggvAMILILwACC+A8AIILwDCCyC8APzcMPt8qO1rAPzN1NOpr1/CO36xzZ6zjdswQLPwbqqt2+lSO1SFd9k6e8i67KROAH5v7OtLtXVdrT10FdhFdp5dZKvsWHgBmoT3LXvKHiu+2272rDDefpd1emYAaPfcMN50X+vcz2+13bcTgHY334/zXYABAGBuQERH6EivAAAAAElFTkSuQmCC"/>
+            <path id="Path_61" data-name="Path 61" class="cls-8" d="M1040,146a6.018,6.018,0,0,1-6,6H14a6.018,6.018,0,0,1-6-6V14a6.018,6.018,0,0,1,6-6H1034a6.018,6.018,0,0,1,6,6Z" transform="translate(1 -2)"/>
+          </g>
+          <g id="Group_244" data-name="Group 244">
+            <rect id="Rectangle_130" data-name="Rectangle 130" class="cls-9" width="1059" height="171"/>
+            <path id="Path_62" data-name="Path 62" class="cls-8" d="M1040,146a6.018,6.018,0,0,1-6,6H14a6.018,6.018,0,0,1-6-6V14a6.018,6.018,0,0,1,6-6H1034a6.018,6.018,0,0,1,6,6Z" transform="translate(5.5 2.5)"/>
+          </g>
+          <g id="Group_245" data-name="Group 245" class="cls-10" transform="translate(13.5 10.5)">
+            <path id="Path_63" data-name="Path 63" class="cls-11" d="M1034,11a2.834,2.834,0,0,1,3,3V146a2.834,2.834,0,0,1-3,3H14a2.834,2.834,0,0,1-3-3V14a2.834,2.834,0,0,1,3-3H1034m0-3H14a6.018,6.018,0,0,0-6,6V146a6.018,6.018,0,0,0,6,6H1034a6.018,6.018,0,0,0,6-6V14a6.018,6.018,0,0,0-6-6Z" transform="translate(-8 -8)"/>
+          </g>
+          <g id="Group_246" data-name="Group 246" transform="translate(13.5 10.5)">
+            <path id="Path_64" data-name="Path 64" class="cls-12" d="M1034,11a2.834,2.834,0,0,1,3,3V146a2.834,2.834,0,0,1-3,3H14a2.834,2.834,0,0,1-3-3V14a2.834,2.834,0,0,1,3-3H1034m0-3H14a6.018,6.018,0,0,0-6,6V146a6.018,6.018,0,0,0,6,6H1034a6.018,6.018,0,0,0,6-6V14a6.018,6.018,0,0,0-6-6Z" transform="translate(-8 -8)"/>
+          </g>
+        </g>
+        <rect id="Rectangle_131" data-name="Rectangle 131" class="cls-1" width="1080" height="192"/>
+      </g>
+      <g id="ic_mic_" data-name="ic_mic " class="cls-13" transform="translate(948 60)">
+        <rect id="rectangle-2" data-name="rectangle" class="cls-1" width="72" height="72"/>
+        <path id="ic_mic_2" data-name="ic_mic " d="M345.4,86.7a8.839,8.839,0,0,0,9-9v-18a9,9,0,0,0-18,0v18A9.228,9.228,0,0,0,345.4,86.7Zm15.9-9c0,9-7.5,15.3-15.9,15.3s-15.9-6.3-15.9-15.3h-5.1c0,10.2,8.1,18.6,18,20.1v9.9h6V97.8c9.9-1.5,18-9.9,18-20.1Z" transform="translate(-309.4 -41.7)"/>
+      </g>
+      <g id="search" transform="translate(60 60)">
+        <path id="path" class="cls-14" d="M72,48H0V-24H72Z" transform="translate(0 24)"/>
+        <path id="path-2" data-name="path" class="cls-15" d="M40.527,12.526H38.144l-.828-.822A19.417,19.417,0,0,0,42.022-.981a19.51,19.51,0,0,0-19.511-19.51A19.51,19.51,0,0,0,3-.981a19.51,19.51,0,0,0,19.511,19.51,19.422,19.422,0,0,0,12.682-4.7l.828.822v2.377l15,14.981L55.5,27.534,40.527,12.526Zm-18.016,0A13.5,13.5,0,0,1,9-.981,13.506,13.506,0,0,1,22.511-14.488,13.508,13.508,0,0,1,36.019-.981,13.506,13.506,0,0,1,22.511,12.526Z" transform="translate(6 29.491)"/>
+      </g>
+    </g>
+    <g id="Collapsed_Notification" data-name="Collapsed Notification" transform="translate(-4 607.445)">
+      <g id="Group_128" data-name="Group 128" class="cls-16" transform="translate(4 20.555)">
+        <g id="Group_127" data-name="Group 127">
+          <g class="cls-31" transform="matrix(1, 0, 0, 1, 0, -628)">
+            <rect id="Rectangle_42-2" data-name="Rectangle 42" class="cls-17" width="1080" height="241.165" transform="translate(0 628)"/>
+          </g>
+        </g>
+      </g>
+      <text id="Retiro_habilitado" data-name="Retiro habilitado" class="cls-18" transform="translate(45.942 157.409)"><tspan x="0" y="0">Retiro habilitado</tspan></text>
+      <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-1" width="838.048" height="49.806" transform="translate(45.942 168.78)"/>
+      <text id="Bienvenido_de_vuelta_a_Bancomer_tu_retiro_está_listo." data-name="Bienvenido de vuelta a Bancomer, tu retiro está listo." class="cls-19" transform="translate(45.954 207.215)"><tspan x="0" y="0">Bienvenido de vuelta a Bancomer, tu retiro está listo.</tspan></text>
+      <g id="XMLID_24_" class="cls-20" transform="translate(4 20.555)">
+        <rect id="Rectangle_46" data-name="Rectangle 46" class="cls-1" width="246.408" height="41.942" transform="translate(104.854 35.913)"/>
+        <text id="BBVA_Flow_now" data-name="BBVA Flow • now" class="cls-21" transform="translate(104.854 72.555)"><tspan x="0" y="0">BBVA Flow </tspan><tspan class="cls-22" y="0">• now</tspan></text>
+        <g id="Symbol_1_1" data-name="Symbol 1 – 1" transform="translate(218.126 16.237)">
+          <path id="Path_24" data-name="Path 24" class="cls-23" d="M-68.1,4.2l2.7,2.7,2.7-2.7.8.8-3.5,3.5L-68.9,5Z" transform="translate(209.9 39.855)"/>
+        </g>
+        <path id="Path_25" data-name="Path 25" class="cls-23" d="M-152.787-.7H-188.7l5.5,10.223V29.97a3.251,3.251,0,0,0,3.408,3.146h27a3.251,3.251,0,0,0,3.408-3.146v-27A3.71,3.71,0,0,0-152.787-.7Zm-10.485,25.427H-176.38V22.106h13.107Zm5.243-7.864h-18.35V14.242h18.35ZM-155.409,9H-176.38V6.378h20.971Z" transform="translate(233.263 47.884)"/>
+        <rect id="Rectangle_47" data-name="Rectangle 47" class="cls-1" width="1080" height="94.369"/>
+      </g>
+    </g>
+    <g id="navbar">
+      <rect id="rectangle-3" data-name="rectangle" width="1080" height="144" transform="translate(0 1776)"/>
+      <g id="navbar_x5F_mobile_copy" transform="translate(504 1812)">
+        <g id="Group_279" data-name="Group 279" class="cls-24">
+          <g id="Group_278" data-name="Group 278" class="cls-3" transform="translate(8.348 8.348)">
+            <rect id="Rectangle_149" data-name="Rectangle 149" class="cls-25" width="57" height="60"/>
+            <g id="Group_277" data-name="Group 277" transform="translate(6.952 6.952)">
+              <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-26" cx="20.7" cy="20.7" r="20.7"/>
+            </g>
+          </g>
+          <rect id="Rectangle_150" data-name="Rectangle 150" class="cls-1" width="72" height="72"/>
+        </g>
+      </g>
+      <g id="navbar_x5F_mobile_copy-2" data-name="navbar_x5F_mobile_copy" transform="translate(204 1812)">
+        <g id="Group_276" data-name="Group 276" class="cls-27">
+          <g id="Group_275" data-name="Group 275" class="cls-3" transform="translate(9 8.361)">
+            <rect id="Rectangle_146" data-name="Rectangle 146" class="cls-28" width="54" height="63"/>
+            <g id="Group_274" data-name="Group 274" transform="translate(8.196 5.498)">
+              <g id="Group_273" data-name="Group 273">
+                <path id="Path_75" data-name="Path 75" class="cls-29" d="M42.962,47.761c0,1.2,0,1.5-.9.9l-36-21c-.9-.6-.6-1.5.3-1.8l35.7-21c.9-.6.9,0,.9.9Z" transform="translate(-5.519 -4.619)"/>
+              </g>
+            </g>
+          </g>
+          <rect id="Rectangle_147" data-name="Rectangle 147" class="cls-1" width="72" height="72" transform="translate(3)"/>
+        </g>
+      </g>
+      <g id="navbar_x5F_mobile_copy-3" data-name="navbar_x5F_mobile_copy" transform="translate(804 1812)">
+        <g id="XMLID_1_" class="cls-24">
+          <g id="Group_282" data-name="Group 282" class="cls-3" transform="translate(8.001 8.001)">
+            <rect id="Rectangle_152" data-name="Rectangle 152" class="cls-30" width="57" height="60"/>
+            <g id="Group_281" data-name="Group 281" transform="translate(6.999 6.999)">
+              <g id="Group_280" data-name="Group 280">
+                <path id="Path_76" data-name="Path 76" class="cls-29" d="M47,7.1A2.575,2.575,0,0,0,44.6,5H7.4A2.575,2.575,0,0,0,5,7.1V44.9A2.575,2.575,0,0,0,7.4,47H44.6A2.575,2.575,0,0,0,47,44.9Z" transform="translate(-5 -5)"/>
+              </g>
+            </g>
+          </g>
+          <rect id="Rectangle_153" data-name="Rectangle 153" class="cls-1" width="72" height="72"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
